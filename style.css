@@ -36,16 +36,16 @@
 }
 
 .pinkbank-footer {
-    background-color:#f25278; /* fundo rosa */
-    color: white; /* texto branco */
+    background-color:#f25278;
+    color: white; 
 }
 
 .pinkbank-footer a {
-    color: white; /* links brancos */
+    color: white;
 }
 
 .pinkbank-footer a:hover {
-    color: #ffd1e0; /* links ao passar o mouse */
+    color: #ffd1e0; 
 }
 
 
