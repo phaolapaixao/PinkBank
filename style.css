@@ -62,12 +62,12 @@
 }
 
 .planos-rosa {
-  background-color: #FFB6C1; /* fundo rosa PinkBank */
-  color: white; /* muda a cor do texto se quiser */
+  background-color: #FFB6C1; 
+  color: white; 
 }
 
 .planos-rosa .text-muted {
-  color: #ffe0f0; /* texto secundário mais claro para combinar com o fundo rosa */
+  color: #ffe0f0;
 }
 
 
